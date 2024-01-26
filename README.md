@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Yadav</h1>
 <h3 align="center">I'm currently studying Computer Engineering in India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/abhay-yadav01/abhay-yadav01/assets/157784718/096eda2a-1903-4b6f-8329-f7777ef032dd">
+<img align="right" alt="coding" width="400" src="https://github.com/abhay-yadav01/abhay-yadav01/assets/157784718/b794fa1f-cbe7-44bd-91c1-5d1e69c0d299">
 
 - 📫 How to reach me **abhayyadav19110@gmail.com**
 
