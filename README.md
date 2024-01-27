@@ -1,3 +1,4 @@
+![logo](https://github.com/abhay-yadav01/abhay-yadav01/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhay Yadav</h1>
 <h3 align="center">I'm currently studying Computer Engineering in India</h3>
 
