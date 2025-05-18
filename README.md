@@ -1,6 +1,8 @@
 ![logo](https://github.com/abhay-yadav01/abhay-yadav01/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhay Yadav</h1>
-<h3 align="center">I'm currently studying Computer Engineering in India</h3>
+<h3 align="center">I'm a Python 🐍 Developer</h3>
+<h4 align="center">Currently working at Bhavin Technolabs Pvt. Ltd., Rajkot</h4>
+
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif">
 
